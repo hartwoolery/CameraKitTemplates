@@ -1,0 +1,39 @@
+{
+    "1686850120163771:333738": {
+        "IFileManager": {
+            "path": "Files/File_1686850120163771_333738"
+        }
+    },
+    "1686850120164364:333739": {
+        "IResourceController": {
+            "name": "Button Material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1686850120164367:333740",
+            "fileId": "1686850120163771:333738",
+            "originalId": "1686850120185628:333761",
+            "publicId": "1686850120498122:333892",
+            "expected_hash": "cfeafe6778147d054fb51ca1285d451d"
+        },
+        "IResourceManager": {
+            "uid": "1686850120164367:333740",
+            "name": "Files/File_1686850120163771_333738",
+            "flags": 1
+        }
+    },
+    "1686850120185628:333761": {
+        "IFileManager": {
+            "path": "Files/File_1686850120185628_333761.lsmat"
+        }
+    },
+    "1686850120498122:333892": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Button Material.lsmat",
+                "hash": "cd7fbe65ab07b6629856378258bf5d87"
+            }
+        }
+    }
+}

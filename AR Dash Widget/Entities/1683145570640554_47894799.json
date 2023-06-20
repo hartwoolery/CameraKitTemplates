@@ -1,0 +1,24 @@
+{
+    "1683145570640554:47894799": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683145570640741:47894800",
+            "resources": [
+                "1683070219343529:13650928",
+                "1683147489563374:49372222",
+                "1683147489813198:49372290"
+            ]
+        }
+    },
+    "1683145570640741:47894800": {
+        "IResourceController": {
+            "public": {
+                "path": "Widget Resources/Boxing Widget/Textures"
+            }
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "1683322479094340:427103": {
+        "IResourceController": {
+            "name": "Team Logos",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683322479100014:427112",
+            "resources": [
+                "1683322479114265:427128",
+                "1683322479249461:427161",
+                "1683322479291956:427204",
+                "1683322479330784:427223",
+                "1683322479365090:427247",
+                "1683322479401093:427281"
+            ]
+        }
+    },
+    "1683322479100014:427112": {
+        "IResourceController": {
+            "public": {
+                "path": "Widget Resources/Basketball Widget/Textures/Team Logos"
+            }
+        }
+    }
+}

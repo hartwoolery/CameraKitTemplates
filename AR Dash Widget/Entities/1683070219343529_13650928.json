@@ -1,0 +1,79 @@
+{
+    "1683070219340177:13650917": {
+        "IResourceController": {
+            "public": {
+                "path": "Widget Resources/Boxing Widget/Textures/Boxing Icon.png",
+                "hash": "316bd1b5c8eea83d64425266d258636d"
+            }
+        }
+    },
+    "1683070219342146:13650927": {
+        "IFileManager": {
+            "path": "Files/File_1683070219342146_13650927.pvr"
+        }
+    },
+    "1683070219343529:13650928": {
+        "IResourceController": {
+            "name": "Boxing Icon",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683070219344204:13650929",
+            "fileId": "1683070219342146:13650927",
+            "originalId": "1683070219344513:13650934",
+            "publicId": "1683070219340177:13650917",
+            "expected_hash": "5a5b057a8473ad7de38384f054ff7457",
+            "additional": {
+                "originHash": "316bd1b5c8eea83d64425266d258636d"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683070219344204:13650929",
+            "name": "Files/File_1683070219342146_13650927.png",
+            "flags": 1
+        }
+    },
+    "1683070219344204:13650929": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "316bd1b5c8eea83d64425266d258636d"
+                    },
+                    "v": "1683322594156595:524335"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "270848",
+                "compressedSize": "89441",
+                "extension": "png",
+                "originalRAM": "2160900",
+                "originalSize": "341040",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1683322588306461:518494"
+        }
+    },
+    "1683070219344513:13650934": {
+        "IFileManager": {
+            "path": "Files/File_1683070219344513_13650934.png"
+        }
+    },
+    "1683322588306461:518494": {
+        "IFileManager": {
+            "path": "Files/File_1683322588306461_518494.png"
+        }
+    },
+    "1683322594156595:524335": {
+        "IFileManager": {
+            "path": "Files/File_1683322594156595_524335.pvr"
+        }
+    }
+}

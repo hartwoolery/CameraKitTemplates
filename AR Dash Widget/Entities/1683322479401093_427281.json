@@ -1,0 +1,79 @@
+{
+    "1683322479400258:427279": {
+        "IFileManager": {
+            "path": "Files/File_1683322479400258_427279.pvr"
+        }
+    },
+    "1683322479401093:427281": {
+        "IResourceController": {
+            "name": "team-4",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683322479402411:427284",
+            "fileId": "1683322479400258:427279",
+            "originalId": "1683322479403559:427291",
+            "publicId": "1683322479425508:427307",
+            "expected_hash": "22bdc179d60345c1cd6ed76c1e131302",
+            "additional": {
+                "originHash": "acd09fd79925381e61213387b1febc81"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683322479402411:427284",
+            "name": "Files/File_1683322479400258_427279.png",
+            "flags": 1
+        }
+    },
+    "1683322479402411:427284": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "acd09fd79925381e61213387b1febc81"
+                    },
+                    "v": "1683322506125074:458568"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "270848",
+                "compressedSize": "96174",
+                "extension": "png",
+                "originalRAM": "2163840",
+                "originalSize": "411016",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1683322479413591:427292"
+        }
+    },
+    "1683322479403559:427291": {
+        "IFileManager": {
+            "path": "Files/File_1683322479403559_427291.png"
+        }
+    },
+    "1683322479413591:427292": {
+        "IFileManager": {
+            "path": "Files/File_1683322479413591_427292.png"
+        }
+    },
+    "1683322479425508:427307": {
+        "IResourceController": {
+            "public": {
+                "path": "Widget Resources/Basketball Widget/Textures/Team Logos/team-4.png",
+                "hash": "acd09fd79925381e61213387b1febc81"
+            }
+        }
+    },
+    "1683322506125074:458568": {
+        "IFileManager": {
+            "path": "Files/File_1683322506125074_458568.pvr"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "1683072185977368:15423485": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683072185977555:15423486",
+            "resources": []
+        }
+    },
+    "1683072185977555:15423486": {
+        "IResourceController": {
+            "public": {
+                "path": "Widget Resources/Electoral Widget/Materials"
+            }
+        }
+    }
+}

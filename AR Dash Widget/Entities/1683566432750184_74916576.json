@@ -1,0 +1,33 @@
+{
+    "1683566432749164:74916575": {
+        "IFileManager": {
+            "path": "Files/File_1683566432749164_74916575.ttf"
+        }
+    },
+    "1683566432750184:74916576": {
+        "IResourceController": {
+            "name": "Avenir Next Font",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683566432750352:74916577",
+            "fileId": "1683566432749164:74916575",
+            "publicId": "1683566432752461:74916584",
+            "expected_hash": "b5ed933057eaf1919dd79d81248cdbce"
+        },
+        "IResourceManager": {
+            "uid": "1683566432750352:74916577",
+            "name": "Files/File_1683566432749164_74916575.ttf",
+            "flags": 1
+        }
+    },
+    "1683566432752461:74916584": {
+        "IResourceController": {
+            "public": {
+                "path": "Fonts/Avenir Next Font.ttf",
+                "hash": "b5ed933057eaf1919dd79d81248cdbce"
+            }
+        }
+    }
+}

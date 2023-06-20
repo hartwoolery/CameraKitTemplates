@@ -1,0 +1,39 @@
+{
+    "1682523174164158:22060851": {
+        "IFileManager": {
+            "path": "Files/File_1682523174164158_22060851"
+        }
+    },
+    "1682523174165074:22060852": {
+        "IResourceController": {
+            "name": "Row Background",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682523174165076:22060853",
+            "fileId": "1682523174164158:22060851",
+            "originalId": "1682523174190408:22060868",
+            "publicId": "1682523174330236:22060957",
+            "expected_hash": "a05aa746ae7ac68ba9ca7e96c76581ba"
+        },
+        "IResourceManager": {
+            "uid": "1682523174165076:22060853",
+            "name": "Files/File_1682523174164158_22060851",
+            "flags": 1
+        }
+    },
+    "1682523174190408:22060868": {
+        "IFileManager": {
+            "path": "Files/File_1682523174190408_22060868.lsmat"
+        }
+    },
+    "1682523174330236:22060957": {
+        "IResourceController": {
+            "public": {
+                "path": "Widget Resources/Basketball Widget/Materials/Row Background.lsmat",
+                "hash": "ac468c4dc0512f4266ba2932c56e6f83"
+            }
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "1683145553553740:47872796": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683145553554532:47872797",
+            "resources": [
+                "1681248286667705:52441390",
+                "1683322479094340:427103"
+            ]
+        }
+    },
+    "1683145553554532:47872797": {
+        "IResourceController": {
+            "public": {
+                "path": "Widget Resources/Basketball Widget/Textures"
+            }
+        }
+    }
+}

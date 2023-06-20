@@ -1,0 +1,33 @@
+{
+    "1682700564586839:3754990": {
+        "IFileManager": {
+            "path": "Files/File_1682700564586839_3754990.js"
+        }
+    },
+    "1682700564588047:3754991": {
+        "IResourceController": {
+            "name": "RoundedMeshModule",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682700564588057:3754992",
+            "fileId": "1682700564586839:3754990",
+            "publicId": "1682700564590927:3754997",
+            "expected_hash": "e389fb45119d5ae4f8a476192b2eb880"
+        },
+        "IResourceManager": {
+            "uid": "1682700564588057:3754992",
+            "name": "Files/File_1682700564586839_3754990.js",
+            "flags": 1
+        }
+    },
+    "1682700564590927:3754997": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Graphics/RoundedMeshModule.js",
+                "hash": "e389fb45119d5ae4f8a476192b2eb880"
+            }
+        }
+    }
+}

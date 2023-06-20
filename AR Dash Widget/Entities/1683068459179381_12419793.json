@@ -1,0 +1,79 @@
+{
+    "1683068459178073:12419792": {
+        "IFileManager": {
+            "path": "Files/File_1683068459178073_12419792.pvr"
+        }
+    },
+    "1683068459179381:12419793": {
+        "IResourceController": {
+            "name": "Ford",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683068459179787:12419794",
+            "fileId": "1683068459178073:12419792",
+            "originalId": "1683068459180088:12419801",
+            "publicId": "1683068459184479:12419815",
+            "expected_hash": "2384bf42ca0d8510ac7cb52ac8acc73a",
+            "additional": {
+                "originHash": "c201cbc91ded7ea5efc922f57ad78e9b"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683068459179787:12419794",
+            "name": "Files/File_1683068459178073_12419792.png",
+            "flags": 1
+        }
+    },
+    "1683068459179787:12419794": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "c201cbc91ded7ea5efc922f57ad78e9b"
+                    },
+                    "v": "1683566808811730:75182809"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "37440",
+                "compressedSize": "21357",
+                "extension": "png",
+                "originalRAM": "296400",
+                "originalSize": "85773",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1683566807908007:75180020"
+        }
+    },
+    "1683068459180088:12419801": {
+        "IFileManager": {
+            "path": "Files/File_1683068459180088_12419801.png"
+        }
+    },
+    "1683068459184479:12419815": {
+        "IResourceController": {
+            "public": {
+                "path": "Widget Resources/Electoral Widget/Textures/Ford.png",
+                "hash": "c201cbc91ded7ea5efc922f57ad78e9b"
+            }
+        }
+    },
+    "1683566807908007:75180020": {
+        "IFileManager": {
+            "path": "Files/File_1683566807908007_75180020.png"
+        }
+    },
+    "1683566808811730:75182809": {
+        "IFileManager": {
+            "path": "Files/File_1683566808811730_75182809.pvr"
+        }
+    }
+}

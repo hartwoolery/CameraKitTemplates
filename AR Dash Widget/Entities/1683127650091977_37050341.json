@@ -1,0 +1,33 @@
+{
+    "1683127650090542:37050340": {
+        "IFileManager": {
+            "path": "Files/File_1683127650090542_37050340.js"
+        }
+    },
+    "1683127650091977:37050341": {
+        "IResourceController": {
+            "name": "UI Button",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683127650092126:37050342",
+            "fileId": "1683127650090542:37050340",
+            "publicId": "1683127650095505:37050347",
+            "expected_hash": "87c3c89a790e706d7522d6c71dc2b106"
+        },
+        "IResourceManager": {
+            "uid": "1683127650092126:37050342",
+            "name": "Files/File_1683127650090542_37050340.js",
+            "flags": 1
+        }
+    },
+    "1683127650095505:37050347": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Graphics/UI Button.js",
+                "hash": "87c3c89a790e706d7522d6c71dc2b106"
+            }
+        }
+    }
+}

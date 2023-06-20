@@ -1,0 +1,43 @@
+{
+    "1680793581639092:2479799": {
+        "IFileManager": {
+            "path": "Files/File_1680793581639092_2479799"
+        }
+    },
+    "1680793581641653:2479800": {
+        "IResourceController": {
+            "name": "Hint_Zoom_In",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1680793581642324:2479803",
+            "fileId": "1680793581639092:2479799",
+            "originalId": "1680793581648846:2479810",
+            "publicId": "1680793581661601:2479820",
+            "expected_hash": "798038d64dca146c28ab50083f6f97a4",
+            "additional": {
+                "subtype": "5"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1680793581642324:2479803",
+            "name": "Files/File_1680793581639092_2479799",
+            "flags": 1
+        }
+    },
+    "1680793581648846:2479810": {
+        "IFileManager": {
+            "path": "Files/File_1680793581648846_2479810"
+        }
+    },
+    "1680793581661601:2479820": {
+        "IResourceController": {
+            "public": {
+                "path": "Custom Hint Resources/Resources/Textures/Animated/Hint_Zoom_In",
+                "hash": "798038d64dca146c28ab50083f6f97a4",
+                "complexResourceHash": "bd2d7ac8df4760bcc72a2100b1b20b1b"
+            }
+        }
+    }
+}

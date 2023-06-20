@@ -1,0 +1,79 @@
+{
+    "1683147489561361:49372209": {
+        "IFileManager": {
+            "path": "Files/File_1683147489561361_49372209.pvr"
+        }
+    },
+    "1683147489563374:49372222": {
+        "IResourceController": {
+            "name": "Roger Calderon",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683147489566962:49372223",
+            "fileId": "1683147489561361:49372209",
+            "originalId": "1683147489570520:49372228",
+            "publicId": "1683147489581470:49372239",
+            "expected_hash": "1fa4a06e77cb46b8a8707e866fe8068f",
+            "additional": {
+                "originHash": "0c7f6d2a04c9adcbc30f40d15f89e8d6"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683147489566962:49372223",
+            "name": "Files/File_1683147489561361_49372209.png",
+            "flags": 1
+        }
+    },
+    "1683147489566962:49372223": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "0c7f6d2a04c9adcbc30f40d15f89e8d6"
+                    },
+                    "v": "1683566786680667:75155246"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "87360",
+                "compressedSize": "42147",
+                "extension": "png",
+                "originalRAM": "693888",
+                "originalSize": "147222",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1683566784503166:75151700"
+        }
+    },
+    "1683147489570520:49372228": {
+        "IFileManager": {
+            "path": "Files/File_1683147489570520_49372228.png"
+        }
+    },
+    "1683147489581470:49372239": {
+        "IResourceController": {
+            "public": {
+                "path": "Widget Resources/Boxing Widget/Textures/Roger Calderon.png",
+                "hash": "0c7f6d2a04c9adcbc30f40d15f89e8d6"
+            }
+        }
+    },
+    "1683566784503166:75151700": {
+        "IFileManager": {
+            "path": "Files/File_1683566784503166_75151700.png"
+        }
+    },
+    "1683566786680667:75155246": {
+        "IFileManager": {
+            "path": "Files/File_1683566786680667_75155246.pvr"
+        }
+    }
+}

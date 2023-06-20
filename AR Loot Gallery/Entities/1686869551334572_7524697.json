@@ -1,0 +1,79 @@
+{
+    "1686869551333578:7524694": {
+        "IFileManager": {
+            "path": "Files/File_1686869551333578_7524694.pvr"
+        }
+    },
+    "1686869551334572:7524697": {
+        "IResourceController": {
+            "name": "mobile-computer",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1686869551334843:7524698",
+            "fileId": "1686869551333578:7524694",
+            "originalId": "1686869551335119:7524703",
+            "publicId": "1686869551350013:7524711",
+            "expected_hash": "d01caba4eaaa610fd6436ebcaec1e90e",
+            "additional": {
+                "originHash": "d375f6f94e63c768e5bb9df9ca9090ac"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1686869551334843:7524698",
+            "name": "Files/File_1686869551333578_7524694.png",
+            "flags": 1
+        }
+    },
+    "1686869551334843:7524698": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "d375f6f94e63c768e5bb9df9ca9090ac"
+                    },
+                    "v": "1686869559757449:7530227"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "8550",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "17536",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1686869551346280:7524710"
+        }
+    },
+    "1686869551335119:7524703": {
+        "IFileManager": {
+            "path": "Files/File_1686869551335119_7524703.png"
+        }
+    },
+    "1686869551346280:7524710": {
+        "IFileManager": {
+            "path": "Files/File_1686869551346280_7524710.png"
+        }
+    },
+    "1686869551350013:7524711": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Test/mobile-computer.png",
+                "hash": "d375f6f94e63c768e5bb9df9ca9090ac"
+            }
+        }
+    },
+    "1686869559757449:7530227": {
+        "IFileManager": {
+            "path": "Files/File_1686869559757449_7530227.pvr"
+        }
+    }
+}

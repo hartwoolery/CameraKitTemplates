@@ -1,0 +1,22 @@
+{
+    "1682462195992918:8029159": {
+        "IResourceController": {
+            "name": "Components",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682462195993138:8029160",
+            "resources": [
+                "1681150623179296:38435802"
+            ]
+        }
+    },
+    "1682462195993138:8029160": {
+        "IResourceController": {
+            "public": {
+                "path": "Components"
+            }
+        }
+    }
+}

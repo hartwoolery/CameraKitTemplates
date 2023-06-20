@@ -1,0 +1,33 @@
+{
+    "1686159374984662:565370": {
+        "IFileManager": {
+            "path": "Files/File_1686159374984662_565370.js"
+        }
+    },
+    "1686159374985381:565371": {
+        "IResourceController": {
+            "name": "Placeholder API Module",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1686159374985388:565372",
+            "fileId": "1686159374984662:565370",
+            "publicId": "1686159374985996:565377",
+            "expected_hash": "1e3f2c19e14127ef8adab6466f29ebc2"
+        },
+        "IResourceManager": {
+            "uid": "1686159374985388:565372",
+            "name": "Files/File_1686159374984662_565370.js",
+            "flags": 1
+        }
+    },
+    "1686159374985996:565377": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Remote API/Placeholder API Module.js",
+                "hash": "1e3f2c19e14127ef8adab6466f29ebc2"
+            }
+        }
+    }
+}

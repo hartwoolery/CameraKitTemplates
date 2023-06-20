@@ -1,0 +1,33 @@
+{
+    "1684170749368600:1425443": {
+        "IFileManager": {
+            "path": "Files/File_1684170749368600_1425443.js"
+        }
+    },
+    "1684170749369422:1425453": {
+        "IResourceController": {
+            "name": "Anchor Manager",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684170749369440:1425454",
+            "fileId": "1684170749368600:1425443",
+            "publicId": "1684170749373044:1425468",
+            "expected_hash": "e6894003d2db233e96a33449b2d1e34d"
+        },
+        "IResourceManager": {
+            "uid": "1684170749369440:1425454",
+            "name": "Files/File_1684170749368600_1425443.js",
+            "flags": 1
+        }
+    },
+    "1684170749373044:1425468": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Managers/Anchor Manager.js",
+                "hash": "e6894003d2db233e96a33449b2d1e34d"
+            }
+        }
+    }
+}

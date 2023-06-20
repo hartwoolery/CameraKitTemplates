@@ -1,0 +1,43 @@
+{
+    "1683670395310358:103495960": {
+        "IFileManager": {
+            "path": "Files/File_1683670395310358_103495960"
+        }
+    },
+    "1683670395313432:103495961": {
+        "IResourceController": {
+            "name": "Hint_Swipe_Right",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683670395314380:103495964",
+            "fileId": "1683670395310358:103495960",
+            "originalId": "1683670395322625:103495973",
+            "publicId": "1683670395336209:103495981",
+            "expected_hash": "efcba660efae825659754abc0cbeaf66",
+            "additional": {
+                "subtype": "5"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683670395314380:103495964",
+            "name": "Files/File_1683670395310358_103495960",
+            "flags": 1
+        }
+    },
+    "1683670395322625:103495973": {
+        "IFileManager": {
+            "path": "Files/File_1683670395322625_103495973"
+        }
+    },
+    "1683670395336209:103495981": {
+        "IResourceController": {
+            "public": {
+                "path": "Custom Hint Resources/Resources/Textures/Animated/Hint_Swipe_Right",
+                "hash": "efcba660efae825659754abc0cbeaf66",
+                "complexResourceHash": "4c49d6e862609c2753c13a38c536e87b"
+            }
+        }
+    }
+}

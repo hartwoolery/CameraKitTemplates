@@ -1,0 +1,23 @@
+{
+    "1684171792185564:2148800": {
+        "IResourceController": {
+            "name": "Widget",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1684171792185803:2148801",
+            "resources": [
+                "1681255356877446:55861415",
+                "1683050795868594:3399974"
+            ]
+        }
+    },
+    "1684171792185803:2148801": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Widget"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1683648094658934:90845781": {
+        "IFileManager": {
+            "path": "Files/File_1683648094658934_90845781"
+        }
+    },
+    "1683648094660238:90845784": {
+        "IResourceController": {
+            "name": "Two Finger Touch Markers",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683648094660361:90845785",
+            "fileId": "1683648094658934:90845781",
+            "originalId": "1683648094684983:90845810",
+            "publicId": "1683648094807625:90845911",
+            "expected_hash": "e43569d1a7857546f4a215b115971cd4"
+        },
+        "IResourceManager": {
+            "uid": "1683648094660361:90845785",
+            "name": "Files/File_1683648094658934_90845781",
+            "flags": 1
+        }
+    },
+    "1683648094684983:90845810": {
+        "IFileManager": {
+            "path": "Files/File_1683648094684983_90845810.lsmat"
+        }
+    },
+    "1683648094807625:90845911": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Two Finger Touch Markers.lsmat",
+                "hash": "efcd35d846093fe8910b4f46eb527acf"
+            }
+        }
+    }
+}

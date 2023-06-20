@@ -1,0 +1,24 @@
+{
+    "1683068461787233:12425696": {
+        "IResourceController": {
+            "name": "Electoral Widget",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683068461789000:12425697",
+            "resources": [
+                "1683071687521364:14983297",
+                "1683072185977368:15423485",
+                "1686188169348773:15836837"
+            ]
+        }
+    },
+    "1683068461789000:12425697": {
+        "IResourceController": {
+            "public": {
+                "path": "Widget Resources/Electoral Widget"
+            }
+        }
+    }
+}

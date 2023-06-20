@@ -1,0 +1,79 @@
+{
+    "1683324937659502:1680983": {
+        "IFileManager": {
+            "path": "Files/File_1683324937659502_1680983.pvr"
+        }
+    },
+    "1683324937661270:1680984": {
+        "IResourceController": {
+            "name": "add",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683324937665044:1680985",
+            "fileId": "1683324937659502:1680983",
+            "originalId": "1683324937667020:1680993",
+            "publicId": "1683324937673792:1680997",
+            "expected_hash": "e1b1b40e8e375a7172d650e90d6d6188",
+            "additional": {
+                "originHash": "03ed12337d7b9ab5b520ad5c67b00f11"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683324937665044:1680985",
+            "name": "Files/File_1683324937659502_1680983.png",
+            "flags": 1
+        }
+    },
+    "1683324937665044:1680985": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "03ed12337d7b9ab5b520ad5c67b00f11"
+                    },
+                    "v": "1684953786459384:318131"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "2048",
+                "compressedSize": "302",
+                "extension": "png",
+                "originalRAM": "16384",
+                "originalSize": "738",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1684953786256124:315930"
+        }
+    },
+    "1683324937667020:1680993": {
+        "IFileManager": {
+            "path": "Files/File_1683324937667020_1680993.png"
+        }
+    },
+    "1683324937673792:1680997": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/buttons/add.png",
+                "hash": "03ed12337d7b9ab5b520ad5c67b00f11"
+            }
+        }
+    },
+    "1684953786256124:315930": {
+        "IFileManager": {
+            "path": "Files/File_1684953786256124_315930.png"
+        }
+    },
+    "1684953786459384:318131": {
+        "IFileManager": {
+            "path": "Files/File_1684953786459384_318131.pvr"
+        }
+    }
+}

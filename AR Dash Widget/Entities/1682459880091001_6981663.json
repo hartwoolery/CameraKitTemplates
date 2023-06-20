@@ -1,0 +1,24 @@
+{
+    "1682459880091001:6981663": {
+        "IResourceController": {
+            "name": "Basketball Widget",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682459880091187:6981664",
+            "resources": [
+                "1683145553553740:47872796",
+                "1683145559706933:47881873",
+                "1683146514631831:48761201"
+            ]
+        }
+    },
+    "1682459880091187:6981664": {
+        "IResourceController": {
+            "public": {
+                "path": "Widget Resources/Basketball Widget"
+            }
+        }
+    }
+}

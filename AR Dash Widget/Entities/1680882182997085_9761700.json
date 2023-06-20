@@ -1,0 +1,39 @@
+{
+    "1680882182995955:9761699": {
+        "IFileManager": {
+            "path": "Files/File_1680882182995955_9761699"
+        }
+    },
+    "1680882182997085:9761700": {
+        "IResourceController": {
+            "name": "World Mesh Material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1680882182997088:9761701",
+            "fileId": "1680882182995955:9761699",
+            "originalId": "1680882183027929:9761718",
+            "publicId": "1680882183203930:9761824",
+            "expected_hash": "f97f7c5c977618122793cc6fee8fa98a"
+        },
+        "IResourceManager": {
+            "uid": "1680882182997088:9761701",
+            "name": "Files/File_1680882182995955_9761699",
+            "flags": 1
+        }
+    },
+    "1680882183027929:9761718": {
+        "IFileManager": {
+            "path": "Files/File_1680882183027929_9761718.lsmat"
+        }
+    },
+    "1680882183203930:9761824": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/World Mesh Material.lsmat",
+                "hash": "aa70656bbab0c52a77ff10d6c030c3bc"
+            }
+        }
+    }
+}

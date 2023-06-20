@@ -1,0 +1,39 @@
+{
+    "1684170749290647:1425405": {
+        "IFileManager": {
+            "path": "Files/File_1684170749290647_1425405"
+        }
+    },
+    "1684170749291437:1425406": {
+        "IResourceController": {
+            "name": "Marquee",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684170749291440:1425407",
+            "fileId": "1684170749290647:1425405",
+            "originalId": "1684170749314335:1425413",
+            "publicId": "1684170749361495:1425426",
+            "expected_hash": "9f753ed3234469900d21e44eb1a530c4"
+        },
+        "IResourceManager": {
+            "uid": "1684170749291440:1425407",
+            "name": "Files/File_1684170749290647_1425405",
+            "flags": 1
+        }
+    },
+    "1684170749314335:1425413": {
+        "IFileManager": {
+            "path": "Files/File_1684170749314335_1425413.lsmat"
+        }
+    },
+    "1684170749361495:1425426": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Marquee.lsmat",
+                "hash": "61515353eb18e79d31b17e01d7acf64f"
+            }
+        }
+    }
+}

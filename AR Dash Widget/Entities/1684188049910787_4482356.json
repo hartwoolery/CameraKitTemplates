@@ -1,0 +1,40 @@
+{
+    "1684188049907660:4482355": {
+        "IFileManager": {
+            "path": "Files/File_1684188049907660_4482355"
+        }
+    },
+    "1684188049910787:4482356": {
+        "IResourceController": {
+            "name": "Hint_Swipe_Angle",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684188049911946:4482359",
+            "fileId": "1684188049907660:4482355",
+            "originalId": "1684188049919672:4482366",
+            "publicId": "1684188049934644:4482381",
+            "expected_hash": "efcba660efae825659754abc0cbeaf66"
+        },
+        "IResourceManager": {
+            "uid": "1684188049911946:4482359",
+            "name": "Files/File_1684188049907660_4482355",
+            "flags": 1
+        }
+    },
+    "1684188049919672:4482366": {
+        "IFileManager": {
+            "path": "Files/File_1684188049919672_4482366"
+        }
+    },
+    "1684188049934644:4482381": {
+        "IResourceController": {
+            "public": {
+                "path": "Custom Hint Resources/Resources/Textures/Animated/Hint_Swipe_Angle",
+                "hash": "efcba660efae825659754abc0cbeaf66",
+                "complexResourceHash": "4c49d6e862609c2753c13a38c536e87b"
+            }
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "1683070112151290:13546714": {
+        "IResourceController": {
+            "name": "Boxing Widget",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683070112151467:13546715",
+            "resources": [
+                "1683145570640554:47894799",
+                "1683150777568689:51577612",
+                "1683152259247337:52879709"
+            ]
+        }
+    },
+    "1683070112151467:13546715": {
+        "IResourceController": {
+            "public": {
+                "path": "Widget Resources/Boxing Widget"
+            }
+        }
+    }
+}

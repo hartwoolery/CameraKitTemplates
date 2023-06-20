@@ -1,0 +1,23 @@
+{
+    "1683145559706933:47881873": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683145559707097:47881874",
+            "resources": [
+                "1682523174165074:22060852",
+                "1686186280891338:14495923"
+            ]
+        }
+    },
+    "1683145559707097:47881874": {
+        "IResourceController": {
+            "public": {
+                "path": "Widget Resources/Basketball Widget/Materials"
+            }
+        }
+    }
+}

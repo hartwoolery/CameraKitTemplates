@@ -1,0 +1,79 @@
+{
+    "1686869551028559:7523740": {
+        "IFileManager": {
+            "path": "Files/File_1686869551028559_7523740.pvr"
+        }
+    },
+    "1686869551029350:7523741": {
+        "IResourceController": {
+            "name": "guitar-amplifier",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1686869551030042:7523742",
+            "fileId": "1686869551028559:7523740",
+            "originalId": "1686869551030506:7523747",
+            "publicId": "1686869551038992:7523757",
+            "expected_hash": "59e785bea3194f357346779a1bf8f4e9",
+            "additional": {
+                "originHash": "d901609a41e56a80007835d404c324b4"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1686869551030042:7523742",
+            "name": "Files/File_1686869551028559_7523740.png",
+            "flags": 1
+        }
+    },
+    "1686869551030042:7523742": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "d901609a41e56a80007835d404c324b4"
+                    },
+                    "v": "1686869556145568:7527980"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "17001",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "40281",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1686869551035640:7523748"
+        }
+    },
+    "1686869551030506:7523747": {
+        "IFileManager": {
+            "path": "Files/File_1686869551030506_7523747.png"
+        }
+    },
+    "1686869551035640:7523748": {
+        "IFileManager": {
+            "path": "Files/File_1686869551035640_7523748.png"
+        }
+    },
+    "1686869551038992:7523757": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Test/guitar-amplifier.png",
+                "hash": "d901609a41e56a80007835d404c324b4"
+            }
+        }
+    },
+    "1686869556145568:7527980": {
+        "IFileManager": {
+            "path": "Files/File_1686869556145568_7527980.pvr"
+        }
+    }
+}

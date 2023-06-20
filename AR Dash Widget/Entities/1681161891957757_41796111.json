@@ -1,0 +1,2214 @@
+{
+    "1681161891956708:41796110": {
+        "IFileManager": {
+            "path": "Files/File_1681161891956708_41796110.dnn"
+        }
+    },
+    "1681161891957757:41796111": {
+        "IResourceController": {
+            "name": "tv-0-5",
+            "type": 22,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1681161891957766:41796112",
+            "fileId": "1681161891956708:41796110",
+            "originalId": "1681161891961814:41796119",
+            "publicId": "1681161891969594:41796127",
+            "expected_hash": "32d203e2cf09b21078b11015f16fb19f",
+            "additional": {
+                "Inputs": [
+                    {
+                        "k": "data",
+                        "v": {
+                            "transformParams": {
+                                "AlignFillColor": {
+                                    "w": "0",
+                                    "x": "0",
+                                    "y": "0",
+                                    "z": "0"
+                                },
+                                "FlipX": "false",
+                                "FlipY": "false",
+                                "HoriAlignment": "1",
+                                "RotationMode": "0",
+                                "VertAlignment": "1",
+                                "useStretch": "true"
+                            }
+                        }
+                    }
+                ],
+                "Outputs": [
+                    {
+                        "k": "cls",
+                        "v": {
+                            "inputs": ""
+                        }
+                    },
+                    {
+                        "k": "loc",
+                        "v": {
+                            "inputs": ""
+                        }
+                    }
+                ],
+                "compatibility_data": [
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.4",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.8",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.16",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.20",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.28",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.36",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.40",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.48",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.52",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.60",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.68",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.72",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.80",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.84",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "onnx::Add_395",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.92",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.100",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.104",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.112",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.116",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.124",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.132",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.136",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.144",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.148",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "onnx::Add_413",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.156",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.164",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.168",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.176",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.180",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "onnx::Add_422",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.188",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.196",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.200",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.208",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.212",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.220",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.228",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.232",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.240",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.244",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "onnx::Add_440",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.252",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.260",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.264",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.272",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.276",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "onnx::Add_449",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.284",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.292",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.296",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.304",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.308",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "onnx::Add_458",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.316",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.324",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.328",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.336",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.340",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.348",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.356",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.360",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.368",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.372",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "onnx::Add_476",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.380",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.388",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.392",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.400",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.404",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "onnx::Add_485",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.412",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.420",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "x",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.424",
+                        "layerType": "resize"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "input.428",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "onnx::Sigmoid_368",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "cls",
+                        "layerType": "sigmoid"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "0"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "3"
+                            }
+                        ],
+                        "layerName": "loc",
+                        "layerType": "conv"
+                    }
+                ],
+                "isCompressed": "false",
+                "normalization_data": {
+                    "cls": {
+                        "bias": [
+                            "0"
+                        ],
+                        "scale": [
+                            "1"
+                        ]
+                    },
+                    "data": {
+                        "bias": [
+                            "0",
+                            "0",
+                            "0"
+                        ],
+                        "scale": [
+                            "1",
+                            "1",
+                            "1"
+                        ]
+                    },
+                    "loc": {
+                        "bias": [
+                            "0",
+                            "0",
+                            "0",
+                            "0"
+                        ],
+                        "scale": [
+                            "1",
+                            "1",
+                            "1",
+                            "1"
+                        ]
+                    }
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1681161891957766:41796112",
+            "name": "Files/File_1681161891956708_41796110.dnn",
+            "flags": 1
+        }
+    },
+    "1681161891957766:41796112": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedSize": "185769",
+                "extension": "dnn",
+                "originalSize": "185769",
+                "settings": {
+                    "isCompressed": "false"
+                }
+            },
+            "uncompressed_file": "1681167067105589:44157030"
+        }
+    },
+    "1681161891961814:41796119": {
+        "IFileManager": {
+            "path": "Files/File_1681161891961814_41796119.onnx"
+        }
+    },
+    "1681161891969594:41796127": {
+        "IResourceController": {
+            "public": {
+                "path": "ML Assets/tv-0-5.onnx",
+                "hash": "f24b4f24e4c67eb8ba45a92a7e5ae9bf"
+            }
+        }
+    },
+    "1681167067105589:44157030": {
+        "IFileManager": {
+            "path": "Files/File_1681167067105589_44157030.dnn"
+        }
+    }
+}

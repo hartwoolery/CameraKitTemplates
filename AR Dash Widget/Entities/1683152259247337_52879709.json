@@ -1,0 +1,22 @@
+{
+    "1683152259247337:52879709": {
+        "IResourceController": {
+            "name": "Scripts",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683152259247591:52879710",
+            "resources": [
+                "1683152251748151:52870990"
+            ]
+        }
+    },
+    "1683152259247591:52879710": {
+        "IResourceController": {
+            "public": {
+                "path": "Widget Resources/Boxing Widget/Scripts"
+            }
+        }
+    }
+}

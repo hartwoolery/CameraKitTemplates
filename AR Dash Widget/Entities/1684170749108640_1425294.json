@@ -1,0 +1,20 @@
+{
+    "1684170749108640:1425294": {
+        "IResourceController": {
+            "name": "Mask Target",
+            "type": 1,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684170749108637:1425293",
+            "additional": {
+                "RenderTargetRole": "2"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1684170749108637:1425293",
+            "name": "Render Target",
+            "flags": 0
+        }
+    }
+}

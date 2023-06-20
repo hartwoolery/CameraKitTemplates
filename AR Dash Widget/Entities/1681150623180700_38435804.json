@@ -1,0 +1,24 @@
+{
+    "1681150623179396:38435803": {
+        "IFileManager": {
+            "path": "Files/File_1681150623179396_38435803.js"
+        }
+    },
+    "1681150623180700:38435804": {
+        "IResourceController": {
+            "name": "Image Carousel",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1681150623180712:38435805",
+            "fileId": "1681150623179396:38435803",
+            "expected_hash": "240a98a510db7bccf6072fdbd58a79ab"
+        },
+        "IResourceManager": {
+            "uid": "1681150623180712:38435805",
+            "name": "Files/File_1681150623179396_38435803.js",
+            "flags": 1
+        }
+    }
+}

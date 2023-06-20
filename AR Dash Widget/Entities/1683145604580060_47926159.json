@@ -1,0 +1,33 @@
+{
+    "1683145604578599:47926158": {
+        "IFileManager": {
+            "path": "Files/File_1683145604578599_47926158.js"
+        }
+    },
+    "1683145604580060:47926159": {
+        "IResourceController": {
+            "name": "Divider",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683145604580272:47926160",
+            "fileId": "1683145604578599:47926158",
+            "publicId": "1683145604584759:47926170",
+            "expected_hash": "9bf8c96b567fda2d3db06ae97e3dae9a"
+        },
+        "IResourceManager": {
+            "uid": "1683145604580272:47926160",
+            "name": "Files/File_1683145604578599_47926158.js",
+            "flags": 1
+        }
+    },
+    "1683145604584759:47926170": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Graphics/Divider.js",
+                "hash": "9bf8c96b567fda2d3db06ae97e3dae9a"
+            }
+        }
+    }
+}

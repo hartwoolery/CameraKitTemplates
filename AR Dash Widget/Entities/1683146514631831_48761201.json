@@ -1,0 +1,22 @@
+{
+    "1683146514631831:48761201": {
+        "IResourceController": {
+            "name": "Scripts",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683146514632013:48761202",
+            "resources": [
+                "1682435902386742:105723"
+            ]
+        }
+    },
+    "1683146514632013:48761202": {
+        "IResourceController": {
+            "public": {
+                "path": "Widget Resources/Basketball Widget/Scripts"
+            }
+        }
+    }
+}

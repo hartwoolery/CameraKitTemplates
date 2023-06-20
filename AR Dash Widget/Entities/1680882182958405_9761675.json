@@ -1,0 +1,17 @@
+{
+    "1680882182958405:9761675": {
+        "IResourceController": {
+            "name": "World Mesh",
+            "type": 3,
+            "subtype": 3,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1680882182958402:9761674"
+        },
+        "IResourceManager": {
+            "uid": "1680882182958402:9761674",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

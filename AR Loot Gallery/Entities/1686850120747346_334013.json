@@ -1,0 +1,39 @@
+{
+    "1686850120746719:334012": {
+        "IFileManager": {
+            "path": "Files/File_1686850120746719_334012"
+        }
+    },
+    "1686850120747346:334013": {
+        "IResourceController": {
+            "name": "Widget Material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1686850120747350:334014",
+            "fileId": "1686850120746719:334012",
+            "originalId": "1686850120771115:334031",
+            "publicId": "1686850120921028:334118",
+            "expected_hash": "52c8f169803676b0179278a5def402b8"
+        },
+        "IResourceManager": {
+            "uid": "1686850120747350:334014",
+            "name": "Files/File_1686850120746719_334012",
+            "flags": 1
+        }
+    },
+    "1686850120771115:334031": {
+        "IFileManager": {
+            "path": "Files/File_1686850120771115_334031.lsmat"
+        }
+    },
+    "1686850120921028:334118": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Widget Material.lsmat",
+                "hash": "b54a9019e09da4ba687411ec891f6055"
+            }
+        }
+    }
+}

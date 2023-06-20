@@ -1,0 +1,33 @@
+{
+    "1682435902384267:105722": {
+        "IFileManager": {
+            "path": "Files/File_1682435902384267_105722.js"
+        }
+    },
+    "1682435902386742:105723": {
+        "IResourceController": {
+            "name": "Basketball Scores",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682435902386762:105724",
+            "fileId": "1682435902384267:105722",
+            "publicId": "1682435902388240:105729",
+            "expected_hash": "0e1b72c193b71eefebca50737ae75d58"
+        },
+        "IResourceManager": {
+            "uid": "1682435902386762:105724",
+            "name": "Files/File_1682435902384267_105722.js",
+            "flags": 1
+        }
+    },
+    "1682435902388240:105729": {
+        "IResourceController": {
+            "public": {
+                "path": "Widget Resources/Basketball Widget/Scripts/Basketball Scores.js",
+                "hash": "0e1b72c193b71eefebca50737ae75d58"
+            }
+        }
+    }
+}

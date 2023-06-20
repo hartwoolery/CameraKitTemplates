@@ -1,0 +1,33 @@
+{
+    "1683152251746535:52870989": {
+        "IFileManager": {
+            "path": "Files/File_1683152251746535_52870989.js"
+        }
+    },
+    "1683152251748151:52870990": {
+        "IResourceController": {
+            "name": "Boxing Table",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683152251748168:52870991",
+            "fileId": "1683152251746535:52870989",
+            "publicId": "1683152251751710:52871001",
+            "expected_hash": "5139bb97a11e9150ab4dec48dcca9260"
+        },
+        "IResourceManager": {
+            "uid": "1683152251748168:52870991",
+            "name": "Files/File_1683152251746535_52870989.js",
+            "flags": 1
+        }
+    },
+    "1683152251751710:52871001": {
+        "IResourceController": {
+            "public": {
+                "path": "Widget Resources/Boxing Widget/Scripts/Boxing Table.js",
+                "hash": "5139bb97a11e9150ab4dec48dcca9260"
+            }
+        }
+    }
+}

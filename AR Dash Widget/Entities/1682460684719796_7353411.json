@@ -1,0 +1,39 @@
+{
+    "1682460684719796:7353411": {
+        "IResourceController": {
+            "name": "Widget",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682460684719429:7353383",
+            "fileId": "1682460684750815:7353455",
+            "originalId": "1682465796668394:9860877",
+            "publicId": "1682460684751860:7353456",
+            "expected_hash": "5c6e9d0450d3fe32e2a51a64c19133a2"
+        },
+        "IResourceManager": {
+            "uid": "1682460684719429:7353383",
+            "name": "Widget",
+            "flags": 0
+        }
+    },
+    "1682460684750815:7353455": {
+        "IFileManager": {
+            "path": "Files/File_1682460684750815_7353455.oprfb"
+        }
+    },
+    "1682460684751860:7353456": {
+        "IResourceController": {
+            "public": {
+                "path": "Prefabs/Widget.oprfb",
+                "hash": "47ebcc92734f49659bdcc22e86a50c27"
+            }
+        }
+    },
+    "1682465796668394:9860877": {
+        "IFileManager": {
+            "path": "Files/File_1682465796668394_9860877.oprfb"
+        }
+    }
+}

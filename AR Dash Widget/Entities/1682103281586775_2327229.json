@@ -1,0 +1,17 @@
+{
+    "1682103281586775:2327229": {
+        "IResourceController": {
+            "name": "Basketball Widget Target",
+            "type": 1,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682103281586770:2327228"
+        },
+        "IResourceManager": {
+            "uid": "1682103281586770:2327228",
+            "name": "Render Target",
+            "flags": 0
+        }
+    }
+}

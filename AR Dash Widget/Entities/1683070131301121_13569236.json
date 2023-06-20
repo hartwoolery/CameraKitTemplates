@@ -1,0 +1,17 @@
+{
+    "1683070131301121:13569236": {
+        "IResourceController": {
+            "name": "Boxing Widget Target",
+            "type": 1,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683070131301116:13569235"
+        },
+        "IResourceManager": {
+            "uid": "1683070131301116:13569235",
+            "name": "Render Target",
+            "flags": 0
+        }
+    }
+}

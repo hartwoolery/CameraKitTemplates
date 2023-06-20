@@ -1,0 +1,125 @@
+{
+    "1680893107927240:10972849": {
+        "IFileManager": {
+            "path": "Files/File_1680893107927240_10972849.mesh"
+        }
+    },
+    "1680893107927880:10972850": {
+        "IResourceController": {
+            "name": "Plane",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1680893107951842:10972859",
+            "fileId": "1680893107927240:10972849",
+            "publicId": "1680893107957591:10972871",
+            "expected_hash": "f3f8f179b87ba4b5a44077fb80d53214",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "3",
+                            "semantic": "color"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1680893107951842:10972859",
+            "name": "Files/File_1680893107927240_10972849.mesh",
+            "flags": 1
+        }
+    },
+    "1680893107951842:10972859": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "220",
+                "compressedSize": "620",
+                "extension": "mesh",
+                "originalRAM": "220",
+                "originalSize": "620",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "3",
+                                "semantic": "color"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1680893107954932:10972870"
+        }
+    },
+    "1680893107954932:10972870": {
+        "IFileManager": {
+            "path": "Files/File_1680893107954932_10972870.mesh"
+        }
+    },
+    "1680893107957591:10972871": {
+        "IResourceController": {
+            "public": {
+                "path": "Mesh/Plane.mesh",
+                "hash": "f3f8f179b87ba4b5a44077fb80d53214"
+            }
+        }
+    }
+}

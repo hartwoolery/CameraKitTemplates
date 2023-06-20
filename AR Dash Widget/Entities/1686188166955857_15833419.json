@@ -1,0 +1,33 @@
+{
+    "1686188166954610:15833418": {
+        "IFileManager": {
+            "path": "Files/File_1686188166954610_15833418.js"
+        }
+    },
+    "1686188166955857:15833419": {
+        "IResourceController": {
+            "name": "Electoral Counts",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1686188166955868:15833420",
+            "fileId": "1686188166954610:15833418",
+            "publicId": "1686188166956879:15833425",
+            "expected_hash": "758b7210cddc39ae3bd2f2971a07da54"
+        },
+        "IResourceManager": {
+            "uid": "1686188166955868:15833420",
+            "name": "Files/File_1686188166954610_15833418.js",
+            "flags": 1
+        }
+    },
+    "1686188166956879:15833425": {
+        "IResourceController": {
+            "public": {
+                "path": "Widget Resources/Electoral Widget/Scripts/Electoral Counts.js",
+                "hash": "758b7210cddc39ae3bd2f2971a07da54"
+            }
+        }
+    }
+}

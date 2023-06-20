@@ -1,0 +1,23 @@
+{
+    "1683071931043760:15202024": {
+        "IResourceController": {
+            "name": "Fonts",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683071931043967:15202025",
+            "resources": [
+                "1683566432750184:74916576",
+                "1683566432798068:74916631"
+            ]
+        }
+    },
+    "1683071931043967:15202025": {
+        "IResourceController": {
+            "public": {
+                "path": "Fonts"
+            }
+        }
+    }
+}

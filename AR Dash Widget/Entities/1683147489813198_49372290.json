@@ -1,0 +1,79 @@
+{
+    "1683147489811990:49372289": {
+        "IFileManager": {
+            "path": "Files/File_1683147489811990_49372289.pvr"
+        }
+    },
+    "1683147489813198:49372290": {
+        "IResourceController": {
+            "name": "Bradley O'Gallagher",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683147489813391:49372291",
+            "fileId": "1683147489811990:49372289",
+            "originalId": "1683147489813636:49372296",
+            "publicId": "1683147489821595:49372303",
+            "expected_hash": "4873038588c5b08b6838046c4019f7a1",
+            "additional": {
+                "originHash": "48edbf01f5dae1c3395937f2e808ec81"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683147489813391:49372291",
+            "name": "Files/File_1683147489811990_49372289.png",
+            "flags": 1
+        }
+    },
+    "1683147489813391:49372291": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "48edbf01f5dae1c3395937f2e808ec81"
+                    },
+                    "v": "1683566792086981:75163194"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "75272",
+                "compressedSize": "43395",
+                "extension": "png",
+                "originalRAM": "597528",
+                "originalSize": "152272",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1683566790196194:75159785"
+        }
+    },
+    "1683147489813636:49372296": {
+        "IFileManager": {
+            "path": "Files/File_1683147489813636_49372296.png"
+        }
+    },
+    "1683147489821595:49372303": {
+        "IResourceController": {
+            "public": {
+                "path": "Widget Resources/Boxing Widget/Textures/Bradley O'Gallagher.png",
+                "hash": "48edbf01f5dae1c3395937f2e808ec81"
+            }
+        }
+    },
+    "1683566790196194:75159785": {
+        "IFileManager": {
+            "path": "Files/File_1683566790196194_75159785.png"
+        }
+    },
+    "1683566792086981:75163194": {
+        "IFileManager": {
+            "path": "Files/File_1683566792086981_75163194.pvr"
+        }
+    }
+}

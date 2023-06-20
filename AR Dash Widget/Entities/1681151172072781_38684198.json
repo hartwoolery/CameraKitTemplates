@@ -1,0 +1,39 @@
+{
+    "1681151172071490:38684197": {
+        "IFileManager": {
+            "path": "Files/File_1681151172071490_38684197"
+        }
+    },
+    "1681151172072781:38684198": {
+        "IResourceController": {
+            "name": "TV Material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1681151172072785:38684199",
+            "fileId": "1681151172071490:38684197",
+            "originalId": "1681151172101684:38684217",
+            "publicId": "1681151172251394:38684311",
+            "expected_hash": "6e56328c93feac8d4baebd099bc90e2b"
+        },
+        "IResourceManager": {
+            "uid": "1681151172072785:38684199",
+            "name": "Files/File_1681151172071490_38684197",
+            "flags": 1
+        }
+    },
+    "1681151172101684:38684217": {
+        "IFileManager": {
+            "path": "Files/File_1681151172101684_38684217.lsmat"
+        }
+    },
+    "1681151172251394:38684311": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/TV Material.lsmat",
+                "hash": "10658a3db3ea22c5af54371a3ef361a8"
+            }
+        }
+    }
+}

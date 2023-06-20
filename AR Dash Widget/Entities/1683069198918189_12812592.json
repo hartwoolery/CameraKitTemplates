@@ -1,0 +1,17 @@
+{
+    "1683069198918189:12812592": {
+        "IResourceController": {
+            "name": "Electoral Widget Target",
+            "type": 1,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683069198918184:12812591"
+        },
+        "IResourceManager": {
+            "uid": "1683069198918184:12812591",
+            "name": "Render Target",
+            "flags": 0
+        }
+    }
+}

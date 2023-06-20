@@ -1,0 +1,33 @@
+{
+    "1687105646873012:363477": {
+        "IFileManager": {
+            "path": "Files/File_1687105646873012_363477.js"
+        }
+    },
+    "1687105646874696:363478": {
+        "IResourceController": {
+            "name": "EasingModule",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1687105646874707:363479",
+            "fileId": "1687105646873012:363477",
+            "publicId": "1687105646875604:363484",
+            "expected_hash": "9308d1f53b003af5e391380829374f4e"
+        },
+        "IResourceManager": {
+            "uid": "1687105646874707:363479",
+            "name": "Files/File_1687105646873012_363477.js",
+            "flags": 1
+        }
+    },
+    "1687105646875604:363484": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Modules/EasingModule.js",
+                "hash": "9308d1f53b003af5e391380829374f4e"
+            }
+        }
+    }
+}

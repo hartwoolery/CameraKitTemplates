@@ -1,0 +1,24 @@
+{
+    "1684171706337856:2087861": {
+        "IResourceController": {
+            "name": "Graphics",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1684171706338081:2087862",
+            "resources": [
+                "1682700564588047:3754991",
+                "1683127650091977:37050341",
+                "1683145604580060:47926159"
+            ]
+        }
+    },
+    "1684171706338081:2087862": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Graphics"
+            }
+        }
+    }
+}

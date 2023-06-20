@@ -1,0 +1,39 @@
+{
+    "1683072177077911:15414910": {
+        "IFileManager": {
+            "path": "Files/File_1683072177077911_15414910"
+        }
+    },
+    "1683072177078711:15414911": {
+        "IResourceController": {
+            "name": "Rounded Background",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683072177078716:15414912",
+            "fileId": "1683072177077911:15414910",
+            "originalId": "1683072177101799:15414925",
+            "publicId": "1683072177223207:15415057",
+            "expected_hash": "e9733079c458f381c2b5cabcb5bc1691"
+        },
+        "IResourceManager": {
+            "uid": "1683072177078716:15414912",
+            "name": "Files/File_1683072177077911_15414910",
+            "flags": 1
+        }
+    },
+    "1683072177101799:15414925": {
+        "IFileManager": {
+            "path": "Files/File_1683072177101799_15414925.lsmat"
+        }
+    },
+    "1683072177223207:15415057": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Rounded Background.lsmat",
+                "hash": "e59fe8d8781951a5025fb17df1a7d2b8"
+            }
+        }
+    }
+}

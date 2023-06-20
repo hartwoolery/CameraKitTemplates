@@ -1,0 +1,22 @@
+{
+    "1686188169348773:15836837": {
+        "IResourceController": {
+            "name": "Scripts",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686188169348965:15836838",
+            "resources": [
+                "1686188166955857:15833419"
+            ]
+        }
+    },
+    "1686188169348965:15836838": {
+        "IResourceController": {
+            "public": {
+                "path": "Widget Resources/Electoral Widget/Scripts"
+            }
+        }
+    }
+}

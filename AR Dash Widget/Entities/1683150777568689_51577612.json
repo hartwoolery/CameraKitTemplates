@@ -1,0 +1,22 @@
+{
+    "1683150777568689:51577612": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683150777571847:51577613",
+            "resources": [
+                "1683150772451888:51570480"
+            ]
+        }
+    },
+    "1683150777571847:51577613": {
+        "IResourceController": {
+            "public": {
+                "path": "Widget Resources/Boxing Widget/Materials"
+            }
+        }
+    }
+}

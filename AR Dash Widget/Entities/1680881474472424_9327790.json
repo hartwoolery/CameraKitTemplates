@@ -1,0 +1,43 @@
+{
+    "1680881474468817:9327789": {
+        "IFileManager": {
+            "path": "Files/File_1680881474468817_9327789"
+        }
+    },
+    "1680881474472424:9327790": {
+        "IResourceController": {
+            "name": "Hint_Look_For_Surface",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1680881474474432:9327802",
+            "fileId": "1680881474468817:9327789",
+            "originalId": "1680881474483884:9327811",
+            "publicId": "1680881474499105:9327819",
+            "expected_hash": "b6e4128ea61af7f384ef0aca1faa4e21",
+            "additional": {
+                "subtype": "5"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1680881474474432:9327802",
+            "name": "Files/File_1680881474468817_9327789",
+            "flags": 1
+        }
+    },
+    "1680881474483884:9327811": {
+        "IFileManager": {
+            "path": "Files/File_1680881474483884_9327811"
+        }
+    },
+    "1680881474499105:9327819": {
+        "IResourceController": {
+            "public": {
+                "path": "Custom Hint Resources/Resources/Textures/Animated/Hint_Look_For_Surface",
+                "hash": "b6e4128ea61af7f384ef0aca1faa4e21",
+                "complexResourceHash": "e45be35130404264cbe62a83efee0457"
+            }
+        }
+    }
+}

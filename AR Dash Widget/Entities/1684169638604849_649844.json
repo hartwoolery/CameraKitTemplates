@@ -1,0 +1,80 @@
+{
+    "1684169638601982:649843": {
+        "IFileManager": {
+            "path": "Files/File_1684169638601982_649843"
+        }
+    },
+    "1684169638604849:649844": {
+        "IResourceController": {
+            "name": "Hint_Selection_Box",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684169638605764:649847",
+            "fileId": "1684169638601982:649843",
+            "originalId": "1684169638615015:649854",
+            "publicId": "1684169638656065:649863",
+            "expected_hash": "d1dc2dc8b2833cedecd07a0c7cac280e",
+            "additional": {
+                "subtype": "5"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1684169638605764:649847",
+            "name": "Files/File_1684169638601982_649843",
+            "flags": 1
+        }
+    },
+    "1684169638605764:649847": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "345d23e7219a3fbae5e3fb52c0ad408d"
+                    },
+                    "v": "1684169639461256:652627"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "14737408",
+                "compressedSize": "19558",
+                "extension": "t3d",
+                "originalRAM": "14737408",
+                "originalSize": "88619",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "5",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1684169638636030:649862"
+        }
+    },
+    "1684169638615015:649854": {
+        "IFileManager": {
+            "path": "Files/File_1684169638615015_649854"
+        }
+    },
+    "1684169638636030:649862": {
+        "IFileManager": {
+            "path": "Files/File_1684169638636030_649862"
+        }
+    },
+    "1684169638656065:649863": {
+        "IResourceController": {
+            "public": {
+                "path": "Custom Hint Resources/Resources/Textures/Animated/Hint_Selection_Box",
+                "hash": "345d23e7219a3fbae5e3fb52c0ad408d",
+                "complexResourceHash": "6702a36e64b4d59e33acd1d62f5ccdda"
+            }
+        }
+    },
+    "1684169639461256:652627": {
+        "IFileManager": {
+            "path": "Files/File_1684169639461256_652627"
+        }
+    }
+}

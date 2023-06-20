@@ -1,0 +1,39 @@
+{
+    "1683150772450856:51570479": {
+        "IFileManager": {
+            "path": "Files/File_1683150772450856_51570479"
+        }
+    },
+    "1683150772451888:51570480": {
+        "IResourceController": {
+            "name": "Divider",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683150772451891:51570481",
+            "fileId": "1683150772450856:51570479",
+            "originalId": "1683150772476113:51570490",
+            "publicId": "1683150772519427:51570499",
+            "expected_hash": "cdee651c629887ecb37e00bde02d2d17"
+        },
+        "IResourceManager": {
+            "uid": "1683150772451891:51570481",
+            "name": "Files/File_1683150772450856_51570479",
+            "flags": 1
+        }
+    },
+    "1683150772476113:51570490": {
+        "IFileManager": {
+            "path": "Files/File_1683150772476113_51570490.lsmat"
+        }
+    },
+    "1683150772519427:51570499": {
+        "IResourceController": {
+            "public": {
+                "path": "Widget Resources/Boxing Widget/Materials/Divider.lsmat",
+                "hash": "80842ea110559964352b3bcaad73ea56"
+            }
+        }
+    }
+}

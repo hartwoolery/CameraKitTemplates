@@ -1,0 +1,25 @@
+{
+    "1683069191919397:12804688": {
+        "IResourceController": {
+            "name": "Widget Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683069191920771:12804689",
+            "resources": [
+                "1682459880091001:6981663",
+                "1683068461787233:12425696",
+                "1683070112151290:13546714",
+                "1683325199915129:62499"
+            ]
+        }
+    },
+    "1683069191920771:12804689": {
+        "IResourceController": {
+            "public": {
+                "path": "Widget Resources"
+            }
+        }
+    }
+}

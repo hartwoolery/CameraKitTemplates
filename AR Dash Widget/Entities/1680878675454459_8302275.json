@@ -1,0 +1,33 @@
+{
+    "1680878675453580:8302274": {
+        "IFileManager": {
+            "path": "Files/File_1680878675453580_8302274.js"
+        }
+    },
+    "1680878675454459:8302275": {
+        "IResourceController": {
+            "name": "ML Manager",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1680878675454465:8302276",
+            "fileId": "1680878675453580:8302274",
+            "publicId": "1680878675456514:8302286",
+            "expected_hash": "fcbe8ca92d448121d95355bf10692cc2"
+        },
+        "IResourceManager": {
+            "uid": "1680878675454465:8302276",
+            "name": "Files/File_1680878675453580_8302274.js",
+            "flags": 1
+        }
+    },
+    "1680878675456514:8302286": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Managers/ML Manager.js",
+                "hash": "fcbe8ca92d448121d95355bf10692cc2"
+            }
+        }
+    }
+}

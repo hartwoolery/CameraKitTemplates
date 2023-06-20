@@ -1,0 +1,25 @@
+{
+    "1683071687521364:14983297": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683071687521557:14983298",
+            "resources": [
+                "1683068459019986:12419735",
+                "1683068459179381:12419793",
+                "1683070251843426:13678322",
+                "1683071142303027:14485464"
+            ]
+        }
+    },
+    "1683071687521557:14983298": {
+        "IResourceController": {
+            "public": {
+                "path": "Widget Resources/Electoral Widget/Textures"
+            }
+        }
+    }
+}

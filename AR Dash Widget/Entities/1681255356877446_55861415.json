@@ -1,0 +1,33 @@
+{
+    "1681255356872828:55861414": {
+        "IFileManager": {
+            "path": "Files/File_1681255356872828_55861414.js"
+        }
+    },
+    "1681255356877446:55861415": {
+        "IResourceController": {
+            "name": "Widget Interface",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1681255356877468:55861416",
+            "fileId": "1681255356872828:55861414",
+            "publicId": "1681255356882195:55861428",
+            "expected_hash": "96131d2c719a63ea880bb8f3915fa986"
+        },
+        "IResourceManager": {
+            "uid": "1681255356877468:55861416",
+            "name": "Files/File_1681255356872828_55861414.js",
+            "flags": 1
+        }
+    },
+    "1681255356882195:55861428": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Widget/Widget Interface.js",
+                "hash": "96131d2c719a63ea880bb8f3915fa986"
+            }
+        }
+    }
+}

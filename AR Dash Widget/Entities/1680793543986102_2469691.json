@@ -1,0 +1,33 @@
+{
+    "1680793543984388:2469690": {
+        "IFileManager": {
+            "path": "Files/File_1680793543984388_2469690.js"
+        }
+    },
+    "1680793543986102:2469691": {
+        "IResourceController": {
+            "name": "UI Manager",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1680793543986110:2469692",
+            "fileId": "1680793543984388:2469690",
+            "publicId": "1680793543986755:2469697",
+            "expected_hash": "7c49a20572efbd62d8532d432ba4617e"
+        },
+        "IResourceManager": {
+            "uid": "1680793543986110:2469692",
+            "name": "Files/File_1680793543984388_2469690.js",
+            "flags": 1
+        }
+    },
+    "1680793543986755:2469697": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Managers/UI Manager.js",
+                "hash": "7c49a20572efbd62d8532d432ba4617e"
+            }
+        }
+    }
+}

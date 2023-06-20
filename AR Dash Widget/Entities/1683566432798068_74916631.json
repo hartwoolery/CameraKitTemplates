@@ -1,0 +1,33 @@
+{
+    "1683566432797285:74916630": {
+        "IFileManager": {
+            "path": "Files/File_1683566432797285_74916630.ttf"
+        }
+    },
+    "1683566432798068:74916631": {
+        "IResourceController": {
+            "name": "Avenir Next Demi Bold",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683566432798073:74916632",
+            "fileId": "1683566432797285:74916630",
+            "publicId": "1683566432798299:74916637",
+            "expected_hash": "2708c5a2686355c1c1ed9b31454e7906"
+        },
+        "IResourceManager": {
+            "uid": "1683566432798073:74916632",
+            "name": "Files/File_1683566432797285_74916630.ttf",
+            "flags": 1
+        }
+    },
+    "1683566432798299:74916637": {
+        "IResourceController": {
+            "public": {
+                "path": "Fonts/Avenir Next Demi Bold.ttf",
+                "hash": "2708c5a2686355c1c1ed9b31454e7906"
+            }
+        }
+    }
+}

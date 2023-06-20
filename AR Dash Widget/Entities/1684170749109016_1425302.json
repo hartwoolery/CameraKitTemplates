@@ -1,0 +1,22 @@
+{
+    "1684170749109016:1425302": {
+        "IResourceController": {
+            "name": "Render Targets",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1684170749109200:1425303",
+            "resources": [
+                "1684170749108640:1425294"
+            ]
+        }
+    },
+    "1684170749109200:1425303": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Render Targets"
+            }
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "1683068459018317:12419734": {
+        "IFileManager": {
+            "path": "Files/File_1683068459018317_12419734.pvr"
+        }
+    },
+    "1683068459019986:12419735": {
+        "IResourceController": {
+            "name": "Adler",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683068459020577:12419736",
+            "fileId": "1683068459018317:12419734",
+            "originalId": "1683068459021867:12419741",
+            "publicId": "1683068459028834:12419743",
+            "expected_hash": "90ce9f0f794f10bd1782c5dc271d9dc6",
+            "additional": {
+                "originHash": "8426dc33519659ed70a6494fb72aacff"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683068459020577:12419736",
+            "name": "Files/File_1683068459018317_12419734.png",
+            "flags": 1
+        }
+    },
+    "1683068459020577:12419736": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "8426dc33519659ed70a6494fb72aacff"
+                    },
+                    "v": "1683566800208078:75172858"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "34320",
+                "compressedSize": "20387",
+                "extension": "png",
+                "originalRAM": "270364",
+                "originalSize": "72903",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1683566799138568:75169981"
+        }
+    },
+    "1683068459021867:12419741": {
+        "IFileManager": {
+            "path": "Files/File_1683068459021867_12419741.png"
+        }
+    },
+    "1683068459028834:12419743": {
+        "IResourceController": {
+            "public": {
+                "path": "Widget Resources/Electoral Widget/Textures/Adler.png",
+                "hash": "8426dc33519659ed70a6494fb72aacff"
+            }
+        }
+    },
+    "1683566799138568:75169981": {
+        "IFileManager": {
+            "path": "Files/File_1683566799138568_75169981.png"
+        }
+    },
+    "1683566800208078:75172858": {
+        "IFileManager": {
+            "path": "Files/File_1683566800208078_75172858.pvr"
+        }
+    }
+}

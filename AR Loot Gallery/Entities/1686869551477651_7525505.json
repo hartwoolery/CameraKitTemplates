@@ -1,0 +1,79 @@
+{
+    "1686869551477039:7525504": {
+        "IFileManager": {
+            "path": "Files/File_1686869551477039_7525504.pvr"
+        }
+    },
+    "1686869551477651:7525505": {
+        "IResourceController": {
+            "name": "pocket-game",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1686869551478048:7525506",
+            "fileId": "1686869551477039:7525504",
+            "originalId": "1686869551478269:7525511",
+            "publicId": "1686869551483763:7525513",
+            "expected_hash": "c4aa442c00256bfbda3eab8b543be942",
+            "additional": {
+                "originHash": "e10c0341dc0282b0b771e66f35e6537d"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1686869551478048:7525506",
+            "name": "Files/File_1686869551477039_7525504.png",
+            "flags": 1
+        }
+    },
+    "1686869551478048:7525506": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "e10c0341dc0282b0b771e66f35e6537d"
+                    },
+                    "v": "1686869565015922:7532902"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "10475",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "22852",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1686869551481809:7525512"
+        }
+    },
+    "1686869551478269:7525511": {
+        "IFileManager": {
+            "path": "Files/File_1686869551478269_7525511.png"
+        }
+    },
+    "1686869551481809:7525512": {
+        "IFileManager": {
+            "path": "Files/File_1686869551481809_7525512.png"
+        }
+    },
+    "1686869551483763:7525513": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Test/pocket-game.png",
+                "hash": "e10c0341dc0282b0b771e66f35e6537d"
+            }
+        }
+    },
+    "1686869565015922:7532902": {
+        "IFileManager": {
+            "path": "Files/File_1686869565015922_7532902.pvr"
+        }
+    }
+}

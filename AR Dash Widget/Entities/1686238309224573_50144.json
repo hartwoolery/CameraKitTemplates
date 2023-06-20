@@ -1,0 +1,22 @@
+{
+    "1686238309224573:50144": {
+        "IResourceController": {
+            "name": "Remote API",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686238309224805:50145",
+            "resources": [
+                "1686159374985381:565371"
+            ]
+        }
+    },
+    "1686238309224805:50145": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Remote API"
+            }
+        }
+    }
+}

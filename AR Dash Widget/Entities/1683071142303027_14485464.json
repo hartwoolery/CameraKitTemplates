@@ -1,0 +1,79 @@
+{
+    "1683071142302290:14485463": {
+        "IFileManager": {
+            "path": "Files/File_1683071142302290_14485463.jpg"
+        }
+    },
+    "1683071142303027:14485464": {
+        "IResourceController": {
+            "name": "USA Background",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683071142303405:14485465",
+            "fileId": "1683071142302290:14485463",
+            "originalId": "1683071142303897:14485470",
+            "publicId": "1683071142309911:14485474",
+            "expected_hash": "057a41099ace296366ac0fe568cae685",
+            "additional": {
+                "originHash": "057a41099ace296366ac0fe568cae685"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683071142303405:14485465",
+            "name": "Files/File_1683071142302290_14485463.jpg",
+            "flags": 1
+        }
+    },
+    "1683071142303405:14485465": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "057a41099ace296366ac0fe568cae685"
+                    },
+                    "v": "1683071142519109:14485825"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "640000",
+                "compressedSize": "11463",
+                "extension": "jpg",
+                "originalRAM": "640000",
+                "originalSize": "11463",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1683071142307254:14485471"
+        }
+    },
+    "1683071142303897:14485470": {
+        "IFileManager": {
+            "path": "Files/File_1683071142303897_14485470.jpg"
+        }
+    },
+    "1683071142307254:14485471": {
+        "IFileManager": {
+            "path": "Files/File_1683071142307254_14485471.jpg"
+        }
+    },
+    "1683071142309911:14485474": {
+        "IResourceController": {
+            "public": {
+                "path": "Widget Resources/Electoral Widget/Textures/USA Background.jpg",
+                "hash": "057a41099ace296366ac0fe568cae685"
+            }
+        }
+    },
+    "1683071142519109:14485825": {
+        "IFileManager": {
+            "path": "Files/File_1683071142519109_14485825.jpg"
+        }
+    }
+}

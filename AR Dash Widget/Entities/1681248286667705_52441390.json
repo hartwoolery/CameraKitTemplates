@@ -1,0 +1,79 @@
+{
+    "1681248286666045:52441389": {
+        "IFileManager": {
+            "path": "Files/File_1681248286666045_52441389.png"
+        }
+    },
+    "1681248286667705:52441390": {
+        "IResourceController": {
+            "name": "Basketball Icon",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1681248286670251:52441391",
+            "fileId": "1681248286666045:52441389",
+            "originalId": "1681248286672950:52441396",
+            "publicId": "1681248286693682:52441409",
+            "expected_hash": "3349468754e09b29ded1768e8a71a8f9",
+            "additional": {
+                "originHash": "15f1d80b1dd6e8812c976bfe789b4428"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1681248286670251:52441391",
+            "name": "Files/File_1681248286666045_52441389.jpg",
+            "flags": 1
+        }
+    },
+    "1681248286670251:52441391": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "15f1d80b1dd6e8812c976bfe789b4428"
+                    },
+                    "v": "1683322506661646:461166"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "2160900",
+                "compressedSize": "146474",
+                "extension": "png",
+                "originalRAM": "2160900",
+                "originalSize": "368456",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1683322494512418:444752"
+        }
+    },
+    "1681248286672950:52441396": {
+        "IFileManager": {
+            "path": "Files/File_1681248286672950_52441396.png"
+        }
+    },
+    "1681248286693682:52441409": {
+        "IResourceController": {
+            "public": {
+                "path": "Widget Resources/Basketball Widget/Textures/Basketball Icon.png",
+                "hash": "15f1d80b1dd6e8812c976bfe789b4428"
+            }
+        }
+    },
+    "1683322494512418:444752": {
+        "IFileManager": {
+            "path": "Files/File_1683322494512418_444752.png"
+        }
+    },
+    "1683322506661646:461166": {
+        "IFileManager": {
+            "path": "Files/File_1683322506661646_461166.png"
+        }
+    }
+}

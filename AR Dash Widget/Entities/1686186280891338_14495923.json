@@ -1,0 +1,39 @@
+{
+    "1686186280890397:14495922": {
+        "IFileManager": {
+            "path": "Files/File_1686186280890397_14495922"
+        }
+    },
+    "1686186280891338:14495923": {
+        "IResourceController": {
+            "name": "Logo Material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1686186280891345:14495924",
+            "fileId": "1686186280890397:14495922",
+            "originalId": "1686186280918656:14495947",
+            "publicId": "1686186281048883:14496059",
+            "expected_hash": "91c2fa54a99f129ea934cd5be58aac6c"
+        },
+        "IResourceManager": {
+            "uid": "1686186280891345:14495924",
+            "name": "Files/File_1686186280890397_14495922",
+            "flags": 1
+        }
+    },
+    "1686186280918656:14495947": {
+        "IFileManager": {
+            "path": "Files/File_1686186280918656_14495947.lsmat"
+        }
+    },
+    "1686186281048883:14496059": {
+        "IResourceController": {
+            "public": {
+                "path": "Widget Resources/Basketball Widget/Materials/Logo Material.lsmat",
+                "hash": "b1ed9aa70a4dfb2b001aeafb01c6bb06"
+            }
+        }
+    }
+}

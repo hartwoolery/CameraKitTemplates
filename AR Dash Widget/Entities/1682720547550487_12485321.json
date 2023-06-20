@@ -1,0 +1,115 @@
+{
+    "1682720547549726:12485320": {
+        "IFileManager": {
+            "path": "Files/File_1682720547549726_12485320.mesh"
+        }
+    },
+    "1682720547550487:12485321": {
+        "IResourceController": {
+            "name": "Unit Plane",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682720547571571:12485334",
+            "fileId": "1682720547549726:12485320",
+            "publicId": "1682720547577435:12485348",
+            "expected_hash": "9bd734a0a918fe575d694f2454ca04bc",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682720547571571:12485334",
+            "name": "Files/File_1682720547549726_12485320.mesh",
+            "flags": 1
+        }
+    },
+    "1682720547571571:12485334": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "204",
+                "compressedSize": "611",
+                "extension": "mesh",
+                "originalRAM": "204",
+                "originalSize": "611",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682720547575066:12485347"
+        }
+    },
+    "1682720547575066:12485347": {
+        "IFileManager": {
+            "path": "Files/File_1682720547575066_12485347.mesh"
+        }
+    },
+    "1682720547577435:12485348": {
+        "IResourceController": {
+            "public": {
+                "path": "Mesh/Unit Plane.mesh",
+                "hash": "9bd734a0a918fe575d694f2454ca04bc"
+            }
+        }
+    }
+}
