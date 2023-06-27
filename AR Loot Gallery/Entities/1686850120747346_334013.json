@@ -6,7 +6,7 @@
     },
     "1686850120747346:334013": {
         "IResourceController": {
-            "name": "Widget Material",
+            "name": "Frame Material",
             "type": 2,
             "subtype": 1,
             "dependency": 0,
@@ -15,7 +15,7 @@
             "fileId": "1686850120746719:334012",
             "originalId": "1686850120771115:334031",
             "publicId": "1686850120921028:334118",
-            "expected_hash": "52c8f169803676b0179278a5def402b8"
+            "expected_hash": "f2cd772a4252df13c9d70ba592a910bb"
         },
         "IResourceManager": {
             "uid": "1686850120747350:334014",
@@ -31,8 +31,8 @@
     "1686850120921028:334118": {
         "IResourceController": {
             "public": {
-                "path": "Materials/Widget Material.lsmat",
-                "hash": "b54a9019e09da4ba687411ec891f6055"
+                "path": "Materials/Frame Material.lsmat",
+                "hash": "2e97667bd31c6d9ab84f36b95e260042"
             }
         }
     }

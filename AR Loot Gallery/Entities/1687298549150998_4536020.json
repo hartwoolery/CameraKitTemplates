@@ -1,0 +1,79 @@
+{
+    "1687298549150245:4536019": {
+        "IFileManager": {
+            "path": "Files/File_1687298549150245_4536019.jpg"
+        }
+    },
+    "1687298549150998:4536020": {
+        "IResourceController": {
+            "name": "Chair Still",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1687298549151627:4536021",
+            "fileId": "1687298549150245:4536019",
+            "originalId": "1687298549152114:4536026",
+            "publicId": "1687298549183566:4536044",
+            "expected_hash": "d75df2920a125b1bb720e84126f99cba",
+            "additional": {
+                "originHash": "c507849dff0a81181860b3e21f5d6b02"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1687298549151627:4536021",
+            "name": "Files/File_1687298549150245_4536019.jpg",
+            "flags": 1
+        }
+    },
+    "1687298549151627:4536021": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "02fd38345769513762939f9075e25288"
+                    },
+                    "v": "1687298553015478:4538575"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "12541952",
+                "compressedSize": "365333",
+                "extension": "jpg",
+                "originalRAM": "12541952",
+                "originalSize": "435159",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1687298549170484:4536035"
+        }
+    },
+    "1687298549152114:4536026": {
+        "IFileManager": {
+            "path": "Files/File_1687298549152114_4536026.jpg"
+        }
+    },
+    "1687298549170484:4536035": {
+        "IFileManager": {
+            "path": "Files/File_1687298549170484_4536035.jpg"
+        }
+    },
+    "1687298549183566:4536044": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Test Images/Chair Still.jpg",
+                "hash": "c507849dff0a81181860b3e21f5d6b02"
+            }
+        }
+    },
+    "1687298553015478:4538575": {
+        "IFileManager": {
+            "path": "Files/File_1687298553015478_4538575.jpg"
+        }
+    }
+}

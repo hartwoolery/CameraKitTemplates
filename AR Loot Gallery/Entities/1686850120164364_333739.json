@@ -15,7 +15,7 @@
             "fileId": "1686850120163771:333738",
             "originalId": "1686850120185628:333761",
             "publicId": "1686850120498122:333892",
-            "expected_hash": "cfeafe6778147d054fb51ca1285d451d"
+            "expected_hash": "8fc9e0d8907d49d714a23544cc09c727"
         },
         "IResourceManager": {
             "uid": "1686850120164367:333740",
@@ -32,7 +32,7 @@
         "IResourceController": {
             "public": {
                 "path": "Materials/Button Material.lsmat",
-                "hash": "cd7fbe65ab07b6629856378258bf5d87"
+                "hash": "1b8bb5b8142a855dea6fe13fd6ef52a3"
             }
         }
     }

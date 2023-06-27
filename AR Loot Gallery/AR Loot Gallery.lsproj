@@ -578,9 +578,13 @@
         },
         "Material::UiComponent": "",
         "MetaInfoUIComponent": {
-            "hints": "",
-            "lens": "Untitled",
-            "applicability": "3",
+            "icon_hash": "e59de8010d4310e9b0cbc5721ab97e9b",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "AR Loot Gallery",
+            "applicability": "2",
             "lens_descriptors": "",
             "sg": "false",
             "git_friendly": "true",

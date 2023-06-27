@@ -14,7 +14,7 @@
             "uid": "1686850121155966:334250",
             "fileId": "1686850121154923:334248",
             "publicId": "1686850121156830:334255",
-            "expected_hash": "cf83273a3b2a397ee7ffeb477d0cb194"
+            "expected_hash": "03ede371362c8a41317eced56a09378f"
         },
         "IResourceManager": {
             "uid": "1686850121155966:334250",
@@ -26,7 +26,7 @@
         "IResourceController": {
             "public": {
                 "path": "Scripts/CarouselButton.js",
-                "hash": "cf83273a3b2a397ee7ffeb477d0cb194"
+                "hash": "03ede371362c8a41317eced56a09378f"
             }
         }
     }

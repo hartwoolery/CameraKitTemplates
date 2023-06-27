@@ -1,0 +1,79 @@
+{
+    "1687298548925220:4535911": {
+        "IFileManager": {
+            "path": "Files/File_1687298548925220_4535911.jpg"
+        }
+    },
+    "1687298548926334:4535912": {
+        "IResourceController": {
+            "name": "Musicians Abstract",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1687298548927213:4535913",
+            "fileId": "1687298548925220:4535911",
+            "originalId": "1687298548927897:4535918",
+            "publicId": "1687298548968926:4535933",
+            "expected_hash": "163ee90ebb11ff9aaab75cea9b35a258",
+            "additional": {
+                "originHash": "e9fb947cc54d6a3c03d07f93cd3bf99d"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1687298548927213:4535913",
+            "name": "Files/File_1687298548925220_4535911.jpg",
+            "flags": 1
+        }
+    },
+    "1687298548927213:4535913": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "743fe43b46cfa146e5087ec6800248df"
+                    },
+                    "v": "1687301369408525:6006771"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "12525568",
+                "compressedSize": "582248",
+                "extension": "jpg",
+                "originalRAM": "12525568",
+                "originalSize": "690377",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1687301368252135:6006120"
+        }
+    },
+    "1687298548927897:4535918": {
+        "IFileManager": {
+            "path": "Files/File_1687298548927897_4535918.jpg"
+        }
+    },
+    "1687298548968926:4535933": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Test Images/Musicians Abstract.jpg",
+                "hash": "e9fb947cc54d6a3c03d07f93cd3bf99d"
+            }
+        }
+    },
+    "1687301368252135:6006120": {
+        "IFileManager": {
+            "path": "Files/File_1687301368252135_6006120.jpg"
+        }
+    },
+    "1687301369408525:6006771": {
+        "IFileManager": {
+            "path": "Files/File_1687301369408525_6006771.jpg"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "1687296679864269:3716960": {
+        "IResourceController": {
+            "name": "Managers",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1687296679864500:3716965",
+            "resources": [
+                "1686875230476043:10432116",
+                "1687296634574443:3696313"
+            ]
+        }
+    },
+    "1687296679864500:3716965": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Managers"
+            }
+        }
+    }
+}

@@ -14,7 +14,7 @@
             "uid": "1686850121137198:334235",
             "fileId": "1686850121136443:334233",
             "publicId": "1686850121138319:334240",
-            "expected_hash": "438b510655e9f9122099f45cda995fe4"
+            "expected_hash": "26bbaf8d222ee27e4c2bb32fdecd8507"
         },
         "IResourceManager": {
             "uid": "1686850121137198:334235",
@@ -26,7 +26,7 @@
         "IResourceController": {
             "public": {
                 "path": "Scripts/Modules/RoundedMeshModule.js",
-                "hash": "438b510655e9f9122099f45cda995fe4"
+                "hash": "26bbaf8d222ee27e4c2bb32fdecd8507"
             }
         }
     }

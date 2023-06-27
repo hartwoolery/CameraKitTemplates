@@ -1,0 +1,33 @@
+{
+    "1687296634573144:3696312": {
+        "IFileManager": {
+            "path": "Files/File_1687296634573144_3696312.js"
+        }
+    },
+    "1687296634574443:3696313": {
+        "IResourceController": {
+            "name": "GalleryManager",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1687296634574451:3696314",
+            "fileId": "1687296634573144:3696312",
+            "publicId": "1687296634575381:3696319",
+            "expected_hash": "2ecb4a617957cfce838cc80e8599c509"
+        },
+        "IResourceManager": {
+            "uid": "1687296634574451:3696314",
+            "name": "Files/File_1687296634573144_3696312.js",
+            "flags": 1
+        }
+    },
+    "1687296634575381:3696319": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Managers/GalleryManager.js",
+                "hash": "2ecb4a617957cfce838cc80e8599c509"
+            }
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "1687298547964060:4535188": {
+        "IFileManager": {
+            "path": "Files/File_1687298547964060_4535188.jpg"
+        }
+    },
+    "1687298547965012:4535189": {
+        "IResourceController": {
+            "name": "City Illustration",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1687298547966993:4535194",
+            "fileId": "1687298547964060:4535188",
+            "originalId": "1687298547967991:4535199",
+            "publicId": "1687298548008998:4535216",
+            "expected_hash": "a1c61f8268922a078832b9fbb480660e",
+            "additional": {
+                "originHash": "cb5d1a691e56a9249fc432859fd0641b"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1687298547966993:4535194",
+            "name": "Files/File_1687298547964060_4535188.jpg",
+            "flags": 1
+        }
+    },
+    "1687298547966993:4535194": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "6df2af62c656ad61df87b1046ad7f55e"
+                    },
+                    "v": "1687298549267288:4536167"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "12525568",
+                "compressedSize": "629410",
+                "extension": "jpg",
+                "originalRAM": "12525568",
+                "originalSize": "733181",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1687298547989241:4535208"
+        }
+    },
+    "1687298547967991:4535199": {
+        "IFileManager": {
+            "path": "Files/File_1687298547967991_4535199.jpg"
+        }
+    },
+    "1687298547989241:4535208": {
+        "IFileManager": {
+            "path": "Files/File_1687298547989241_4535208.jpg"
+        }
+    },
+    "1687298548008998:4535216": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Test Images/City Illustration.jpg",
+                "hash": "cb5d1a691e56a9249fc432859fd0641b"
+            }
+        }
+    },
+    "1687298549267288:4536167": {
+        "IFileManager": {
+            "path": "Files/File_1687298549267288_4536167.jpg"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "1687314474065742:10017564": {
+        "IFileManager": {
+            "path": "Files/File_1687314474065742_10017564.pvr"
+        }
+    },
+    "1687314474066790:10017565": {
+        "IResourceController": {
+            "name": "grid",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1687314474067026:10017566",
+            "fileId": "1687314474065742:10017564",
+            "originalId": "1687314474067317:10017571",
+            "publicId": "1687314474075666:10017573",
+            "expected_hash": "8793fab7fdcbc75030b728aae59af71c",
+            "additional": {
+                "originHash": "b7e3e1ccf2bd78babfc913989717a79a"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1687314474067026:10017566",
+            "name": "Files/File_1687314474065742_10017564.png",
+            "flags": 1
+        }
+    },
+    "1687314474067026:10017566": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "b7e3e1ccf2bd78babfc913989717a79a"
+                    },
+                    "v": "1687314474579669:10018924"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "2064",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "1394",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1687314474071492:10017572"
+        }
+    },
+    "1687314474067317:10017571": {
+        "IFileManager": {
+            "path": "Files/File_1687314474067317_10017571.png"
+        }
+    },
+    "1687314474071492:10017572": {
+        "IFileManager": {
+            "path": "Files/File_1687314474071492_10017572.png"
+        }
+    },
+    "1687314474075666:10017573": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Icons/grid.png",
+                "hash": "b7e3e1ccf2bd78babfc913989717a79a"
+            }
+        }
+    },
+    "1687314474579669:10018924": {
+        "IFileManager": {
+            "path": "Files/File_1687314474579669_10018924.pvr"
+        }
+    }
+}

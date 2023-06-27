@@ -1,7 +1,7 @@
 /**
  * @name RoundedMeshModule
  * @author 2020CV Inc.
- * @version 1.0.0
+ * @version 1.0.1
  * @description 
  *    Builds 3D rectangular mesh with rounded corners
 
@@ -14,33 +14,64 @@
  */
 
 var Builder = function(parent, options) {
-    this.width = 1;
-    this.height = 1;
+    
+    this.index = options.index;    
     
     //avoid z-fighting
-    this.depth = options.depth + options.index * 0.1; 
-
+    this.depth = options.depth + this.index * 0.1; 
+    this.sceneObject = parent;
     
     this.borderRadius = options.borderRadius;
     
-    //todo reduce sides for zero radius
-    this.numSides = 40;
+    
+    this.numSides = Math.min(Math.floor(options.borderRadius*20 + 1) * 8, 40);
+ 
+    this.texture = options.texture;
+    this.textureSize = new vec2(options.texture.getWidth(), options.texture.getHeight())
+    
     this.borderSize = options.borderSize;
     this.borderColor = options.borderColor;
     this.useEnvironmentLighting = options.useEnvironmentLighting;
-    this.renderToMesh = parent.getChild(0).getComponent("Component.RenderMeshVisual")
+    var collider = parent.createComponent("Physics.ColliderComponent");
+    collider.shape = Shape.createBoxShape();
+    //collider.debugDrawEnabled = true;
+    this.collider = collider;
+    this.renderToMesh = parent.createComponent("Component.RenderMeshVisual");
     this.renderToMesh.setRenderOrder(1)
-    this.renderToMesh.mainMaterial = options.material;
-    this.mainPass = options.material.mainPass;
+    this.renderToMesh.mainMaterial = options.material.clone();
+    this.mainPass = this.renderToMesh.mainMaterial.mainPass;
+    this.mainPass.baseTex = this.texture;
+    this.mainPass.opacity = 0;
     this.builder = this.createBuilder()
 
+    this.targetPosition = vec3.zero();
+    this.targetRotation = quat.fromEulerAngles(0,0,0);
+    this.targetOpacity = 0;
+    
+    this.startPosition = options.startPosition || vec3.zero();
+    this.startRotation = quat.fromEulerAngles(0,0,0);
+    this.startOpacity = 0;
+    var size = new vec2(1, this.textureSize.y/this.textureSize.x).uniformScale(options.width * 100.);
+     
+    
+    this.sceneObject.getTransform().setWorldPosition(this.startPosition);
+    this.resize(size)
+}
+
+Builder.prototype.easeToTarget = function(t) {
+    var transform = this.sceneObject.getTransform();
+    var newPosition = vec3.lerp(this.startPosition, this.targetPosition, t);
+    var newRotation = quat.slerp(this.startRotation, this.targetRotation, t);
+    transform.setWorldPosition(newPosition);
+    transform.setWorldRotation(newRotation);
+    
+    this.mainPass.opacity = this.startOpacity * (1.0-t) + this.targetOpacity * t;
 }
 
 Builder.prototype.createBuilder = function() {
     var builder = new MeshBuilder([
         { name: "position", components: 3 },
-        { name: "normal", components: 3, normalized: true },
-        //{ name: "color", components: 4 },
+        { name: "normal", components: 3, normalized: true }
     ]);
     builder.topology = MeshTopology.Triangles;
     builder.indexType = MeshIndexType.UInt16;
@@ -69,7 +100,7 @@ Builder.prototype.addVerts = function(x0, innerBorder, frontFacing) {
     var scaleFactor = innerBorder ? 0.0 : 1.0;
     var w2 = this.width * scaleFactor/2;
     var h2 = this.height * scaleFactor/2;
-    var r = this.borderRadius * scaleFactor;
+    var r = this.borderRadius * Math.min(this.width,this.height) * 0.5 * scaleFactor;
     
   
     var corners = [
@@ -148,7 +179,7 @@ Builder.prototype.resize = function(newSize) {
     
     this.update()
     this.mainPass.widgetSize = new vec3(size.x, size.y, this.depth);
-    
+  
     this.mainPass.borderRadius = this.borderRadius;
     this.mainPass.borderSize = this.borderSize;
     this.mainPass.borderColor = this.borderColor;

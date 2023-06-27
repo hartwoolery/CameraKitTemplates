@@ -1,0 +1,79 @@
+{
+    "1687298548674975:4535612": {
+        "IFileManager": {
+            "path": "Files/File_1687298548674975_4535612.jpg"
+        }
+    },
+    "1687298548675667:4535613": {
+        "IResourceController": {
+            "name": "Dunes Scene",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1687298548676493:4535614",
+            "fileId": "1687298548674975:4535612",
+            "originalId": "1687298548677205:4535619",
+            "publicId": "1687298548712448:4535634",
+            "expected_hash": "f3c9d459aa577337a57cf0f58b628a4c",
+            "additional": {
+                "originHash": "3199123f515da0c9bcf4b88b4e89a1c3"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1687298548676493:4535614",
+            "name": "Files/File_1687298548674975_4535612.jpg",
+            "flags": 1
+        }
+    },
+    "1687298548676493:4535614": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "d80e47f9074497c41aff852e998fa903"
+                    },
+                    "v": "1687298551263311:4537438"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "12525568",
+                "compressedSize": "440380",
+                "extension": "jpg",
+                "originalRAM": "12525568",
+                "originalSize": "532330",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1687298548697460:4535633"
+        }
+    },
+    "1687298548677205:4535619": {
+        "IFileManager": {
+            "path": "Files/File_1687298548677205_4535619.jpg"
+        }
+    },
+    "1687298548697460:4535633": {
+        "IFileManager": {
+            "path": "Files/File_1687298548697460_4535633.jpg"
+        }
+    },
+    "1687298548712448:4535634": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Test Images/Dunes Scene.jpg",
+                "hash": "3199123f515da0c9bcf4b88b4e89a1c3"
+            }
+        }
+    },
+    "1687298551263311:4537438": {
+        "IFileManager": {
+            "path": "Files/File_1687298551263311_4537438.jpg"
+        }
+    }
+}
